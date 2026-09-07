@@ -1,0 +1,3 @@
+Comparing output\output_1.txt and output\golden_1.txt... 
+ 
+[SUCCESS] output\output_1.txt matches output\golden_1.txt perfectly! 
